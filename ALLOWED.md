@@ -4,7 +4,7 @@
 
 최종 사용자 라이선스 동의서(EULA)
 =================
-https://github.com/HmHmmHm/DAZE-EULA/edit/master/LICENSE.md
+https://github.com/HmHmmHm/DAZE-EULA/edit/master/LICENSE.m
 
 합의이력이란
 -----------------------------

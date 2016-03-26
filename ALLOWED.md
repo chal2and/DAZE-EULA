@@ -22,7 +22,7 @@ https://github.com/HmHmmHm/DAZE-EULA/edit/master/LICENSE.md
 
 - 저작권물을 이용해서 총 합의 기간 동안 총 10만원 미만의 상업적 이득을 볼 수 있게 허용되어지고 10만원을 초과하게 될 경우에 재 합의.
 
-| 합의날짜 | 기간 | 만료 | 금액 | 이름 | 메일 |
+| 합의날짜 | 기간 | 만료 | 금액 | 이름 ( 네이버 아이디 ) | 메일 |
 | :-------: | :-------: | :-------: | :-------: | :-------: | :-------: |
 | 2016.01.01 | ∞ | ∞ | ∞ | IUzinCRSG ( Sch3023@naver.com ) | 네이버 ||
 | 2015.11.03 | 7개월 | 2016.05.31 | 100000 | xesame, psh3253, wookboy00, park05077, kokopap2002, wsj2377, dudkbj0419, han020419, wdv2658 | 네이버 ||
@@ -40,4 +40,4 @@ https://github.com/HmHmmHm/DAZE-EULA/edit/master/LICENSE.md
 | 2016.02.29 | 5개월 | 2016.07.29 | 100000 | younsuk3217 | 네이버 ||
 | 2016.03.12 | 5개월 | 2016.08.12 | 100000 | qotjdgusbsh, 723hong, ptsv1579, Heejung01203 | 네이버 ||
 | 2016.03.13 | 5개월 | 2016.08.13 | 100000 | ddk0086, anto0423 | 네이버 ||
-| 2016.03.26 | 5개월 | 2016.08.26 | 100000 | gms4520, alstjddn0221, dlwjdgn0323, pks09930, endenfndu, aiuytfg02, yoochan1013, april00375, gilja1052, rladnjsqhr06 | 네이버 ||
+| 2016.03.26 | 5개월 | 2016.08.26 | 100000 | gms4520, alstjddn0221, dlwjdgn0323, pks09930, endenfndu, aiuytfg02, yoochan1013, april00375, gilja1052, rladnjsqhr06, yktt119, dongkyu91622 | 네이버 ||

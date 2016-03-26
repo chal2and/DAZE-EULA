@@ -27,7 +27,8 @@ https://github.com/HmHmmHm/DAZE-EULA/edit/master/LICENSE.md
 합의 목록 : IUzinCRSG ( Sch3023@naver.com )
 안내 : 데이즈 내부관리를 돕거나 별도 중지권고를 할때까지 무기한으로 저작권물을 이용해서 제한없이 상업적 이득을 볼 수 있게 허용되어짐.
 
-합의 날짜 : 2015.11.03 / 기간 : 7개월 / 만료 : 2016.05.31 / 합의 금액 : 10만원 미만 상업적 이득 허용 합의 목록 : xesame, psh3253, wookboy00, park05077, kokopap2002, wsj2377, dudkbj0419, han020419, wdv2658 ( @naver.com )
+- 합의 날짜 : 2015.11.03 / 기간 : 7개월 / 만료 : 2016.05.31 / 합의 금액 : 10만원 미만 상업적 이득 허용 
+-- 합의 목록 : xesame, psh3253, wookboy00, park05077, kokopap2002, wsj2377, dudkbj0419, han020419, wdv2658 ( @naver.com )
 
 합의 날짜 : 2016.01.31 / 기간 : 5개월 / 만료 : 2016.07.01 / 합의 금액 : 10만원 미만 상업적 이득 허용
 합의 목록 : ruddn1001, dlworhs2913, MERITKHY, Phj8189 ( 네이버 - NAVER )

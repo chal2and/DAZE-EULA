@@ -30,10 +30,10 @@ https://github.com/organization/DAZE-EULA/blob/master/LICENSE.md
 
 ## 데이즈 - EULA 라이센스 합의서 발급전 유의 사항
 ```
-00 : 데이즈 - EULA 라이센스에 대한 설명을 반드시 필독 및 정독 하셔야합니다.
-링크 : https://github.com/organization/DAZE-EULA/blob/master/LICENSE.md
-01 : 합의전 연락을 할때 자신의 네이버 이메일을 필수 지참 하셔야 합니다.
-02 : 합의전 10000원 상당의 네이버 해피빈 콩 기부후에 발급하러 오셔야 합니다. ( 인증 스크린샷 필수 지참 )
+0. 데이즈 - EULA 라이센스에 대한 설명을 반드시 필독 및 정독 하셔야합니다.
+ 링크 : https://github.com/organization/DAZE-EULA/blob/master/LICENSE.md
+1. 합의전 연락을 할때 자신의 네이버 이메일을 필수 지참 하셔야 합니다.
+2. 합의전 10000원 상당의 네이버 해피빈 콩 기부후에 발급하러 오셔야 합니다. ( 인증 스크린샷 필수 지참 )
 ```
 
 ## 합의 이력

@@ -34,7 +34,7 @@ https://github.com/organization/DAZE-EULA/blob/master/LICENSE.md
  링크 : https://github.com/organization/DAZE-EULA/blob/master/LICENSE.md
 1. 합의전 연락을 할때 자신의 네이버 이메일을 필수 지참 하셔야 합니다.
 2. 합의전 10000원 상당의 네이버 해피빈 콩 기부후에 발급하러 오셔야 합니다. ( 인증 스크린샷 필수 지참 )
-2-1. 네이버 해피빈 사이트에서 아무 단체나 클릭해서 해피빈 콩 10000원 기부를 하셔야 합니다.
+ 네이버 해피빈 사이트에서 아무 단체나 클릭해서 해피빈 콩 10000원 기부를 하셔야 합니다.
 ```
 
 ## 합의 이력

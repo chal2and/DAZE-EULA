@@ -22,7 +22,7 @@ https://github.com/HmHmmHm/DAZE-EULA/edit/master/LICENSE.md
 ## 합의 이력
 | 합의날짜 | 기간 | 만료 | 합의 금액 | 합의자 |
 | :-------: | :-------: | :-------: | :-------: | :-------: |
-| 2016.01.01 | ∞ | ∞ | ∞ | ∞ | IUzinCRSG ( Sch3023@naver.com ) ||
+| 2016.01.01 | ∞ | ∞ | ∞ | IUzinCRSG ( Sch3023@naver.com ) ||
 
 합의이력
 -----------------------------

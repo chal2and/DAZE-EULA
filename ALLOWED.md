@@ -2,7 +2,7 @@
     소프트웨어 사용권 동의서
     합의이력 기록관리 명부
 
-## 최종 사용자 라이선스 동의서( EULA , End User License Agreement )
+## 최종 사용자 라이선스 동의서( EULA, End User License Agreement )
 ```
 링크 : https://github.com/organization/DAZE-EULA/blob/master/LICENSE.md
 ```

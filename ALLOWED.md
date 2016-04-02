@@ -61,3 +61,4 @@
 | 2016.03.12 | 2016.08.12 | 5 | 100000 | qotjdgusbsh, 723hong, ptsv1579, Heejung01203 | 네이버 ||
 | 2016.03.13 | 2016.08.13 | 5 | 100000 | ddk0086, anto0423 | 네이버 ||
 | 2016.03.26 | 2016.08.26 | 5 | 100000 | gms4520, alstjddn0221, dlwjdgn0323, pks09930, endenfndu, aiuytfg02, yoochan1013, april00375, gilja1052, rladnjsqhr06, yktt119, dongkyu91622, qhrejddl76 | 네이버 ||
+| 2016.04.02 | 2016.09.02 | 5 | 100000 | juho45508 | 네이버 ||

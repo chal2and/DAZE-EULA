@@ -128,7 +128,7 @@
 | 2016.08.28 | juha8084, mx0503, asdf5254300, choipro0116, createdla | 10000 | 50000 | 문화상품권 | 네이버 |
 | 2016.09.10 | tjdskr1004, cmj12030, dorong0807, cup2613, Postsv | 10000 | 50000 | 문화상품권 | 네이버 |
 | 2016.09.10 | john030614, kirito_sao | 10000 | 20000 | 문화상품권 ( 정산 ) | 네이버 |
-| 2016.09.10 | yoonsehyun03, yoochan1013, alsrjs1312345, baskduf, sanghyun040714 | 10000 | 50000 | 문화상품권 | 네이버 |
+| 2016.09.11 | yoonsehyun03, yoochan1013, alsrjs1312345, baskduf, sanghyun040714 | 10000 | 50000 | 문화상품권 | 네이버 |
 
 ## 데이즈 - EULA 합의 기부 은행 이력
 ```
